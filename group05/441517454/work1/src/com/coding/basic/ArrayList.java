@@ -36,7 +36,7 @@ public class ArrayList implements List {
 				this.size++;
 				}
 			else{
-				System.out.println("index/>size¼ÓÈëÊ§°Ü");
+				System.out.println("index/>size");
 				
 			}
 			

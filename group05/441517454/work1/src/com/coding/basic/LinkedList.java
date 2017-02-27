@@ -94,7 +94,7 @@ public class LinkedList implements List {
 				body.next.next =body.next;
 				size++;		
 				}else
-					System.out.println("请先建立头结点");
+					System.out.println("head涓虹┖");
 		
 	}
 	public Object removeFirst(){
